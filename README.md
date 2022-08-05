@@ -1,5 +1,6 @@
 # RollJam 315MHz / 433MHz (Research & How-To)
-**_< Listen, Jam/Listen, Replay >_**
+**_Listen, Jam/Listen, Replay_**
+
 RollJam is a method of capturing a vehicle's rolling code key fob transmission by simultaneously intercepting the transmission and jamming the receivers window; giving the attacker a valid rolling code for re-transmission. The RollJam method was debuted at DEFCON 2015 by security researcher Samy Kamkar. This repository is a compilation of my research on the topic and resources to build your own RollJam device for research. 
 
 ## **< *GET TO KNOW YOUR KEY* >**
