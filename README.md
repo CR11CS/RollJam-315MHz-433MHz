@@ -43,7 +43,7 @@ You should see something similar to the below image. The top pane is your spectr
 
 ***First look at our key transmission***
 ![AIRSPY SDR# key transmission waterfall](https://user-images.githubusercontent.com/96323936/183130224-309b4729-6ef3-4d2e-afc5-cc88dfde028d.PNG)
-The waterfall display shows us our key transmission for the 'lock' button. It appears to send three transmissions broken by brief moments of pause. After several key presses, this transmissions maintained this same pattern.
+The waterfall display shows us our key transmission for the 'lock' button. It appears to send three transmissions broken by brief moments of pause. After several key presses, this transmission maintained this same pattern.
 
 This view of our transmission isn't a great way to analyze what is going on but is a quick way to get a high-level peek at how our key fob transmits. Some key fobs will transmit at three frequencies near to the center frequency (315MHz / 433MHz) simultaneously to provide some protection against a RollJam attack.
 
